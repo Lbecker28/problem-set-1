@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# R history
+.Rhistory
+
+# virtual environments
+venv/
+
+# generated raw data files
+data/transit_data.csv
+data/weather_data.csv
